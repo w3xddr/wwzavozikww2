@@ -1,1 +1,20 @@
-# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit animi id est laborum.
+# 🖱️ Clicker Game
+
+Самый честный таймкиллер в мире. Здесь нет скрытых механик, запутанного сюжета или доната. Только ты, кнопка и непрерывно растущие цифры. 
+
+Идеально, чтобы занять руки во время скучного созвона или просто разгрузить мозг.
+
+---
+
+### 🎮 Как играть?
+Все гениальное - просто:
+* **Кликай.** Каждый клик по главной кнопке увеличивает твой счет. 
+* **Обнуляй.** Если цифры стали слишком большими или ты хочешь начать этот путь заново, кнопка **Reset** мгновенно сбросит твой прогресс до нуля.
+
+### ✨ Особенности
+* Проще некуда - разберется даже кот.
+* Минималистичный и чистый дизайн.
+* Абсолютное обнуление по одной кнопке, если захочется вернуть «тот самый первый клик».
+
+---
+*Попробуй докликать до миллиона... или нажми Reset прямо сейчас.*
